@@ -1,0 +1,9 @@
+C:\Users\Henson\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Henson\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Henson\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Henson\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Henson\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Henson\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Henson\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Henson\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Henson\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.AboutBox1.resources
